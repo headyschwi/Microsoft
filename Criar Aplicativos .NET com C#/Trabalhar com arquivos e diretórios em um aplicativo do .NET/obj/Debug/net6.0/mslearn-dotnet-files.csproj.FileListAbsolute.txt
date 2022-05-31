@@ -1,0 +1,34 @@
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.csproj.AssemblyReference.cache
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfo.cs
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+E:\Programas\headyschwi\Micro\bin\Debug\net6.0\mslearn-dotnet-files.exe
+E:\Programas\headyschwi\Micro\bin\Debug\net6.0\mslearn-dotnet-files.deps.json
+E:\Programas\headyschwi\Micro\bin\Debug\net6.0\mslearn-dotnet-files.runtimeconfig.json
+E:\Programas\headyschwi\Micro\bin\Debug\net6.0\mslearn-dotnet-files.dll
+E:\Programas\headyschwi\Micro\bin\Debug\net6.0\mslearn-dotnet-files.pdb
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.dll
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\refint\mslearn-dotnet-files.dll
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.pdb
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.genruntimeconfig.cache
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\ref\mslearn-dotnet-files.dll
+E:\Programas\headyschwi\Micro\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programas\headyschwi\Micro\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CopyComplete
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\bin\Debug\net6.0\mslearn-dotnet-files.exe
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\bin\Debug\net6.0\mslearn-dotnet-files.deps.json
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\bin\Debug\net6.0\mslearn-dotnet-files.runtimeconfig.json
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\bin\Debug\net6.0\mslearn-dotnet-files.dll
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\bin\Debug\net6.0\mslearn-dotnet-files.pdb
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.csproj.AssemblyReference.cache
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.AssemblyInfo.cs
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.csproj.CopyComplete
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.dll
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\refint\mslearn-dotnet-files.dll
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.pdb
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\mslearn-dotnet-files.genruntimeconfig.cache
+E:\Programas\Microsoft\Criar Aplicativos .NET com C#\Trabalhar com arquivos e diretórios em um aplicativo do .NET\obj\Debug\net6.0\ref\mslearn-dotnet-files.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wedPpUg3hHJcHmxLsEiHBvZeWcLpzkvSvZA9zyAxa0SFFEKO1XFbr3YtHXF2GW6w6QMG+PnE7cbwNTMVdEr7UA==",
+  "success": true,
+  "projectFilePath": "E:\\Programas\\Microsoft\\Criar Aplicativos .NET com C#\\Trabalhar com arquivos e diretórios em um aplicativo do .NET\\mslearn-dotnet-files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heady\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
